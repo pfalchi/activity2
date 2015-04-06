@@ -1,3 +1,6 @@
 et voici un deuxieme fichier
-txt pour être modifié sur gitHub 
+txt pour Ãªtre modifiÃ© sur gitHub 
 directement
+
+
+et voilÃ  la je le modifie
